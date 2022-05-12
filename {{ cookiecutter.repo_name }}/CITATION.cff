@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: {{ cookiecutter.family_name_orcid }}
+  given-names: {{ cookiecutter.given_name_orcid }}
+  orcid: {{ cookiecutter.orcid_code }}
+title: {{ cookiecutter.project_name }}
+version: {{ cookiecutter.version }}
+doi: {{ cookiecutter.doi }}
+date-released: {{ cookiecutter.release_date }}
+url: {{ cookiecutter.url }}
+
