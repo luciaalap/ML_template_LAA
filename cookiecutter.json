@@ -7,4 +7,11 @@
   "s3_bucket": "[OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')",
   "aws_profile": "default",
   "python_interpreter": ["python3", "python"]
+  "family_name_orcid": "ORCID family name for citation"
+  "given_name_orcid": "ORCID given name for citation"
+  "orcid_code": "ORCID code for citation"
+  "version": "Project version for citation"
+  "doi": "Project DOI code"
+  "url": "Project URL"
+  "release_date": "Project release date"
 }
