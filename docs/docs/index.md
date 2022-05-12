@@ -67,7 +67,7 @@ With this in mind, we've created a data science cookiecutter template for projec
 Starting a new project is as easy as running this command at the command line. No need to create a directory first, the cookiecutter will do it for you.
 
 ```nohighlight
-cookiecutter https://github.com/drivendata/cookiecutter-data-science
+cookiecutter https://github.com/luciaalap/ML_template_LAA
 ```
 
 ### Example
