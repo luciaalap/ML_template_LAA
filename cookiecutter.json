@@ -13,6 +13,6 @@
   "version": "Project version for citation",
   "doi": "Project DOI code",
   "url": "Project URL",
-  "release_date": "Project release date"
+  "release_date": "Project release date",
   "_copy_without_render": [".github/*"]
 }
